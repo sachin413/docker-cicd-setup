@@ -1,2 +1,3 @@
-# docker-cicd-setup
-Practice how to setup CI/CD with docker images
+# python-docker
+
+A simple Python app for [Docker's Python Language Guide](https://docs.docker.com/language/python).
